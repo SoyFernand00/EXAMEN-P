@@ -11,7 +11,7 @@ Console.WriteLine("Ingresar años en la Empresa: ");
 años = int.Parse(Console.ReadLine());
 
 //proceso
-if (ven <= 6)
+if (ven <= 600)
 {
     sal_t = sal_b + (ven * 0.05);
 }
