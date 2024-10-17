@@ -36,3 +36,4 @@ Console.WriteLine("Nombre: " + text);
 Console.WriteLine("Total Ganado: " + sal_t);
 Console.WriteLine("Descuento " + ((sal - sal_t) * (-1)));
 Console.WriteLine("Salario neto: " + sal);
+//SACAME DE VENEZUELA MARICO (GRITA AAAAAAHHHHH)...!!!
